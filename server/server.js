@@ -654,9 +654,10 @@ function Length(obj) {
 //======================================================
 function Handler(req, res)
 {                     
-    var file = ".." + req.url;
-    if(file === "../") {
-        file = "../index.html";
+    var file = './' + req.url;
+    console.log(file);
+    if(file === ".//") {
+        file = "index.html";
     }
     var name = path.extname(file);
     var contentType;

@@ -1,0 +1,25 @@
+{
+  "name": "wizardwarz",
+  "version": "1.0.0",
+  "description": "Play the game here: http://wizardwarz.nergal.se",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lallassu/wizardwarz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lallassu/wizardwarz/issues"
+  },
+  "homepage": "https://github.com/Lallassu/wizardwarz#readme",
+  "dependencies": {
+    "dblite": "^0.7.8",
+    "socket.io": "^2.0.3",
+    "sqlite3": "^3.1.8"
+  }
+}
