@@ -25,7 +25,12 @@ The game implements the following (and more):
 
 ## Testing
 
-Install nodejs and run *"cd server; nodejs server.js"*. Then point your browser to *http://localhost:8080*
+Run
+
+    npm install
+    node server/server.js
+
+Then point your browser to *http://localhost:8080*
 
 ## Screenshot
 ![alt tag](https://raw.github.com/lallassu/wizardwarz/master/promo.png)
