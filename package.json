@@ -4,6 +4,7 @@
   "description": "Play the game here: http://wizardwarz.nergal.se",
   "main": "index.js",
   "scripts": {
+    "start": "node src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,9 @@
   "homepage": "https://github.com/Lallassu/wizardwarz#readme",
   "dependencies": {
     "dblite": "^0.7.8",
+    "jquery": "^1.9.1",
     "socket.io": "^2.0.3",
-    "sqlite3": "^3.1.8"
+    "sqlite3": "^3.1.8",
+    "three": "^0.67.0"
   }
 }

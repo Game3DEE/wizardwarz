@@ -1,5 +1,5 @@
 //======================================================
-// File: server.js
+// File: index.js
 // Descr: Nodejs server for Wizard Warz.
 // 
 // Author: Magnus Persson
