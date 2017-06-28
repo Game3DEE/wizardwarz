@@ -1,4 +1,8 @@
 {
+    "metadata": {
+      "type": ""
+    },
+
     "scale" : 1.000000,
 
     "materials": [	{
