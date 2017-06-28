@@ -28,7 +28,7 @@ The game implements the following (and more):
 Run
 
     npm install
-    node server/server.js
+    npm start
 
 Then point your browser to *http://localhost:8080*
 
